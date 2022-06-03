@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Top10Downloader_withGit.iml" filepath="$PROJECT_DIR$/.idea/modules/Top10Downloader_withGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Top10Downloader_withGit.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Top10Downloader_withGit.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Top10Downloader_withGit.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Top10Downloader_withGit.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Top10Downloader_withGit.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Top10Downloader_withGit.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Top10Downloader_withGit.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Top10Downloader_withGit.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
